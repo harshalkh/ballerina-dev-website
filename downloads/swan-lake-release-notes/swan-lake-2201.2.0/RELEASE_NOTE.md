@@ -524,7 +524,7 @@ To view bug fixes, see the [GitHub milestone for 2201.2.0 (Swan Lake)](https://g
 
 #### Improvements
 
-##### `http` package
+[##### `http` package](#http-package-1)
 
 - Made HTTP2 the default transport for the `http` package
 - Updated the default response status as `HTTP 201` for POST resources
